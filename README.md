@@ -53,7 +53,7 @@ In this project, I used the free ‘Excel for the web’ version as this is avai
 # Dataset used in this lab 
 The dataset used in this lab comes from the following source: https://www.kaggle.com/sudalairajkumar/indian-startup-funding under a CC0: Public Domain license. 
 
-# Getting Started with Excel for the Web
+# Exercise 1: Getting Started with spreadsheet app
 
 1. I downloaded the file indian_startup_funding_Lab1.xlsx using the link here: https://docs.google.com/spreadsheets/d/1mNF8HAtRiX5uAQNisCSZ54fPndU-8BA3/edit?usp=sharing&ouid=109957513210365676314&rtpof=true&sd=true
 2. Uploaded and opened a workbook in Excel for the web
@@ -63,8 +63,12 @@ The dataset used in this lab comes from the following source: https://www.kaggle
 6. Selected the indian_startup_funding_Lab1.xlsx file. 
 7. The file is uploaded to my OneDrive of the Microsoft Account I signed up and used to open Excel for the web.
 
-# 
+# Exercise 2: Introduction to Basic Spreadsheet Elements
 
+In this exercise, I worked around some common spreadsheet elements.
+
+1. I opened Excel for the web.
+2. Clicked on New blank workbook.
 
 
 
