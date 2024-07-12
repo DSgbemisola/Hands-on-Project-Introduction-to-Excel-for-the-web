@@ -29,7 +29,7 @@ The objectives of this project are to:
 
 In this project, I used the free ‘Excel for the web’ version as this is available to everyone.
 
-- How to sign up for "Excel for the Web"
+- How to Sign-up for a Microsoft Account to Use Excel for the web
 
 1. Go to www.office.com, click Sign in 
 2. Click Create one! 
@@ -37,31 +37,43 @@ In this project, I used the free ‘Excel for the web’ version as this is avai
 4. Enter your password and click Next. 
 5. Enter the code you received by email. Click Next. 
 6. Enter your phone number and click Send Code. 
-7. Enter the access code you received as a text on your phone, then click Next. 
-8. You are now done with the sign up procedure. Now since you are signed in after sign up at this stage, you can proceed directly to upload and open a workbook in Excel for the Web.
+7. Enter the access code you received as a text on your phone, then click Next
+8. you are now done with the sign up procedure.
 
-- How to open a new workbook in Excel for the web. 
+![image](https://github.com/user-attachments/assets/bfd12b57-f1cd-495b-a320-75524eea31c7)
 
-1. Go to www.office.com, Click Sign in. 
-2. Enter your sign in email. 
-3. Enter your password. 
-4. You are now signed in. 
-5. Click on the Excel icon. 
-6. Click New blank workbook. 
-7. You have successfully opened a new workbook in Excel for the web. 
+- How to Sign in to Excel for the web
+
+1. Go to www.office.com. Click Sign in.
+2. Enter your sign in email.
+3. Enter your password.
+4. You are now signed in.
+   
+![image](https://github.com/user-attachments/assets/81ba392e-25c6-420a-a56e-836421968a07)
+
+- How to Open a new workbook in Excel for the web
+
+1. Click on the Excel icon.
+2. Click New blank workbook.
+3. You have successfully opened a new workbook in Excel for the web.
+
+![image](https://github.com/user-attachments/assets/3e9cf6f1-1c0e-4d5f-8a10-b2c6547d0376)
 
 # Dataset used in this lab 
+
 The dataset used in this lab comes from the following source: https://www.kaggle.com/sudalairajkumar/indian-startup-funding under a CC0: Public Domain license. 
 
 # Exercise 1: Getting Started with spreadsheet app
 
-1. I downloaded the file indian_startup_funding_Lab1.xlsx using the link here: https://docs.google.com/spreadsheets/d/1mNF8HAtRiX5uAQNisCSZ54fPndU-8BA3/edit?usp=sharing&ouid=109957513210365676314&rtpof=true&sd=true
-2. Uploaded and opened a workbook in Excel for the web
-3. Clicked the App Launcher (cube of dots) in the top left corner.
-4. Clicked the Excel icon
-5. Clicked upload and open
-6. Selected the indian_startup_funding_Lab1.xlsx file. 
-7. The file is uploaded to my OneDrive of the Microsoft Account I signed up and used to open Excel for the web.
+I Uploaded and Opened a workbook in Excel for the web
+
+1. Downloaded the file indian_startup_funding_Lab1.xlsx.
+   Dataset is available here: https://docs.google.com/spreadsheets/d/19iDYP0xL49Qmam-xTJbh2L_F327Sltfe/edit?usp=sharing&ouid=101032132621933397345&rtpof=true&sd=true 
+2. Uploaded and opened a workbook in Excel for the web, clicked the App Launcher (cube of dots) in the top left corner. Clicked Excel icon. Then clicked Upload and open and selected the indian_startup_funding_Lab1.xlsx file.
+3. The file is uploadeded to my OneDrive of the Microsoft Account I signed up and used to open Excel for the web.
+4. Successfully uploaded and opened a workbook in Excel for the web.
+
+![image](https://github.com/user-attachments/assets/2df4667f-2f65-4895-83f0-08690055727c)
 
 # Exercise 2: Introduction to Basic Spreadsheet Elements
 
