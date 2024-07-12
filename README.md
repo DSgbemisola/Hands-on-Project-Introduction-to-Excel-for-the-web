@@ -184,7 +184,7 @@ Note: The first time you press CTRL+A, it selects the current region if the work
 
 ![image](https://github.com/user-attachments/assets/fc4b32e8-35b4-4643-87ff-6e2db762875a)
 
-# Exercise: Copying and Filling Data
+# Exercise 8: Copying and Filling Data
 
 - Copying and Filling Data required the following steps:
 
@@ -195,7 +195,7 @@ Note: The first time you press CTRL+A, it selects the current region if the work
 
 ![image](https://github.com/user-attachments/assets/1b57df99-925a-434a-8dcc-223d45a4f62a)
 
-# Exercise: Formatting Cells and Data
+# Exercise 9: Formatting Cells and Data
 
 - Formatting Cells and Data required the following steps:
 
@@ -223,7 +223,65 @@ c. Select columns B to G again. On the Home tab, in the Number group, click the 
 
 ![image](https://github.com/user-attachments/assets/a730b1e0-59dd-4f89-be42-af79dd9e80d6)
 
+# Exercise 10: Performing Simple Calculations in Excel
 
+I performed simple calculations with the following steps:
+
+1. Download the file Personal_Monthly_Expenditure_Lab4.xlsx. Upload and open it using Excel for the web. Go to the Expense - 2018 worksheet.
+   Dataset is available here: https://docs.google.com/spreadsheets/d/1H6TsICIpst-lDInqDaySLNCoAm-yrSTo/edit?usp=sharing&ouid=101032132621933397345&rtpof=true&sd=true
+2. In A14, type Totals and in B14, type =SUM( then select cells B2 to B13 with the mouse, and press Enter.
+3. Select the fill handle on cell B14 and drag to G14 to copy the formula.
+4. In cell H1, type Monthly Total and double-click the divider between H and I.
+5. In H2, type =SUM( then select cells B2 to G2 with the mouse, and press Enter. If necessary, select the fill handle on cell H2 and drag to H14 to copy the formula.
+6. Select columns B to H. On the Home tab, in the Number group, click the Accounting Number Format ($) drop-down list, and select $ English (United States).
+
+![image](https://github.com/user-attachments/assets/45e3e423-8f39-481c-8123-5b9bef211d7d)
+
+# Exercise 11: Using Basic Functions in Excel
+
+- In using basic functions in excel, the following steps were taken:
+
+1. In cells A16-A20, type the following:
+
+Avg
+Min
+Max
+Count
+Median
+
+2. In B16, type =AVERAGE( then select cells B2 to B13 with the mouse, and press Enter. Select the fill handle on cell B16 and drag to G16 to copy the formula.
+
+3. In B17, type =MIN( then select cells B2 to B13 with the mouse, and press Enter. Select the fill handle on cell B17 and drag to G17 to copy the formula.
+
+4. In B18, type =MAX( then select cells B2 to B13 with the mouse, and press Enter. Select the fill handle on cell B18 and drag to G18 to copy the formula.
+
+6. In B19, type =COUNT( then select cells B2 to B13 with the mouse, and press Enter. Select the fill handle on cell B19 and drag to G19 to copy the formula. Select row 19. On the Home tab, click the Number Format drop-down list, and select Number.
+
+7. In B20, type =MEDIAN( then select cells B2 to B13 with the mouse, and press Enter. Select the fill handle on cell B20 and drag to G20 to copy the formula.
+
+![image](https://github.com/user-attachments/assets/89f0f8cd-ed95-4f3d-bac9-2c984ed886f9)
+
+# Excercise 12: Referencing Data in Spreadsheet (Relative, Absolute & Mixed) 
+
+- In performing relative and absolute referencing, the following steps were taken:
+
+1. In cells A31-A40, type 1-10. Select row 31 to 40. On the Home tab, click the Number Format drop-down list, and select General.
+
+2. Relative References: In cell B33, type =A31+A32 and press Enter. Select the fill handle on cell B33 and drag to B40 to copy the formula. Here, both first and second cell reference will move 1 cell down. For example, on cell B34 formula will be changed to =A32+A33, on cell B35 formula will be changed to =A33+A34 and so on.
+
+3. Absolute References: In cell C33, type =$A$31+$A$32 and press Enter. Select the fill handle on cell C33 and drag to C40 to copy the formula. Here, both first and second cell references will not change. For example, on cell C34 formula will remain =$A$31+$A$32, on cell C35 formula will remain =$A$31+$A$32 and so on.
+
+4. Mixed References: In cell D33, type =$A$31+$A32 and press Enter. Select the fill handle on cell D33 and drag to D40 to copy the formula. Here, first cell reference will stay the same, but the second reference will change. For example, on cell D34 formula will be changed to =$A$31+$A33, on cell D35 formula will be changed to =$A$31+$A34 and so on.
+
+![image](https://github.com/user-attachments/assets/772d4c03-65f2-4d9a-a6ff-2bbd9fe3cf7c)
+
+- Handling Formular Error in Spreadsheet
+  
+1. In cell B31, type =A16+A17. Now this will lead to a formula error #VALUE! since cells A16 and A17 do not contain any number.
+
+2. Click the question mark icon in the error message box. This will open the Help for this topic. Read through this help file for more information about #VALUE! errors in formulas.
+
+![image](https://github.com/user-attachments/assets/d6974275-b014-4fc5-8415-908bfadab74b)
 
 
 
